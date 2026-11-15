@@ -1,0 +1,57 @@
+ 93.38	635	635	U	0	unclassified
+  6.62	45	0	R	1	root
+  6.62	45	0	R1	131567	  cellular organisms
+  6.62	45	0	D	2759	    Eukaryota
+  6.62	45	0	D1	33154	      Opisthokonta
+  6.62	45	0	K	4751	        Fungi
+  6.62	45	0	K1	451864	          Dikarya
+  6.62	45	0	P	4890	            Ascomycota
+  6.62	45	0	P1	716545	              saccharomyceta
+  6.62	45	0	P2	147538	                Pezizomycotina
+  6.62	45	0	P3	716546	                  leotiomyceta
+  5.88	40	0	C	147547	                    Lecanoromycetes
+  5.88	40	0	C1	1520881	                      OSLEUM clade
+  5.59	38	0	C2	388435	                        Lecanoromycetidae
+  4.41	30	0	O	5197	                          Lecanorales
+  4.41	30	1	O1	157822	                            Lecanorineae
+  2.79	19	0	F	78060	                              Parmeliaceae
+  1.32	9	0	G	88743	                                Pseudevernia
+  1.32	9	9	S	136283	                                  Pseudevernia intensa
+  1.18	8	2	G	87260	                                Parmelia
+  0.44	3	3	S	87261	                                  Parmelia saxatilis
+  0.44	3	3	S	112048	                                  Parmelia sulcata
+  0.29	2	0	G	87254	                                Bryoria
+  0.29	2	2	S	172611	                                  Bryoria fuscescens
+  0.59	4	0	F	56478	                              Ramalinaceae
+  0.59	4	0	G	56479	                                Ramalina
+  0.59	4	4	S	258253	                                  Ramalina farinacea
+  0.44	3	0	F	5198	                              Cladoniaceae
+  0.44	3	0	G	5199	                                Cladonia
+  0.44	3	3	S	209120	                                  Cladonia polydactyla
+  0.44	3	0	F	50937	                              Stereocaulaceae
+  0.44	3	0	G	209122	                                Lepraria
+  0.44	3	3	S	209133	                                  Lepraria jackii
+  0.59	4	0	O	1302181	                          Caliciales
+  0.59	4	0	F	50934	                            Physciaceae
+  0.59	4	0	G	50935	                              Physcia
+  0.59	4	4	S	116809	                                Physcia adscendens
+  0.29	2	0	O	388450	                          Peltigerales
+  0.29	2	0	O1	157824	                            Peltigerineae
+  0.29	2	0	F	48860	                              Peltigeraceae
+  0.29	2	0	G	48861	                                Peltigera
+  0.29	2	2	S	161997	                                  Peltigera membranacea
+  0.29	2	0	O	1500419	                          Lecideales
+  0.29	2	0	F	40595	                            Lecideaceae
+  0.29	2	0	G	40596	                              Porpidia
+  0.29	2	2	S	273112	                                Porpidia tuberculosa
+  0.29	2	0	C2	388283	                        Ostropomycetidae
+  0.29	2	0	O	88639	                          Pertusariales
+  0.29	2	0	F	50931	                            Pertusariaceae
+  0.29	2	0	G	50932	                              Pertusaria
+  0.29	2	2	S	394541	                                Pertusaria flavicans
+  0.74	5	0	P4	715962	                    dothideomyceta
+  0.74	5	0	C	147539	                      Arthoniomycetes
+  0.74	5	0	O	39677	                        Arthoniales
+  0.74	5	0	F	280969	                          Chrysotrichaceae
+  0.74	5	0	G	289257	                            Chrysothrix
+  0.74	5	5	S	714576	                              Chrysothrix flavovirens
