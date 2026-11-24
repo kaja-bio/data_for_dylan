@@ -1,3 +1,4 @@
+qseqid	sseqid	stitle	pident	length	qlen	slen	mismatch	gapopen	qstart	qend	sstart	send	evalue	bitscore	qcovs
 edd747b6f750b307f6e5ad903d2019fb	Lecanora_chlarotera|bc60|source=consensus_chopper.bc60_1_0(3422)	Lecanora_chlarotera|bc60|source=consensus_chopper.bc60_1_0(3422)	71.724	145	336	148	37	4	130	272	1	143	7.57e-20	83.2	43
 edd747b6f750b307f6e5ad903d2019fb	Parmelia_saxatilis|bc65|source=consensus_chopper.bc65_1_0(1817)	Parmelia_saxatilis|bc65|source=consensus_chopper.bc65_1_0(1817)	73.381	139	336	149	30	6	130	264	1	136	1.61e-18	78.8	40
 edd747b6f750b307f6e5ad903d2019fb	Parmelia_saxatilis|bc65|source=consensus_chopper.bc65_1_0(1817)	Parmelia_saxatilis|bc65|source=consensus_chopper.bc65_1_0(1817)	100.000	10	336	149	0	0	208	217	7	16	6.5	17.0	40

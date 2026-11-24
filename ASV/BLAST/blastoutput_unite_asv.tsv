@@ -1,3 +1,4 @@
+qseqid	sseqid	stitle	pident	length	qlen	slen	mismatch	gapopen	qstart	qend	sstart	send	evalue	bitscore	qcovs
 Feature ID	Taxon	Consensus
 0018719834f49a14308258db37b735e4	k__Fungi;p__Basidiomycota;c__Agaricomycetes;o__Polyporales;f__Ganodermataceae;g__Ganoderma	1.0
 0048647c6c79116aabe5e2ed5f246d4e	k__Fungi;p__Ascomycota;c__Sordariomycetes;o__Xylariales;f__Xylariales_fam_Incertae_sedis;g__Polyscytalum;s__Polyscytalum_sp	0.8

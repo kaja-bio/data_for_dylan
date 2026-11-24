@@ -1,3 +1,4 @@
+qseqid	sseqid	stitle	pident	length	qlen	slen	mismatch	gapopen	qstart	qend	sstart	send	evalue	bitscore	qcovs
 edd747b6f750b307f6e5ad903d2019fb	ITS2_003725	taxon=Skyttea_nitschkei group_type=single_taxon accessions=UDB016230	90.345	145	336	146	9	5	130	272	1	142	1.34e-40	159	43
 edd747b6f750b307f6e5ad903d2019fb	ITS2_001826	taxon=Epithamnolia_xanthoriae group_type=single_taxon accessions=PV530057	83.803	142	336	144	20	2	130	271	1	139	1.64e-33	136	42
 edd747b6f750b307f6e5ad903d2019fb	ITS2_001840	taxon=Epithamnolia_xanthoriae group_type=single_taxon accessions=UDB0819028	83.916	143	336	143	17	4	130	271	1	138	9.70e-32	130	42
