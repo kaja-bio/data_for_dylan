@@ -1,4 +1,4 @@
-percent_clade	reads_clade	taxid	rank	taxonomy_name
+percent_clade	reads_clade	reads_taxon	rank	taxid	taxonomy_name
  10.34	517	517	U	0	unclassified
  89.66	4482	0	R	1	root
  89.66	4482	0	R1	131567	  cellular organisms
